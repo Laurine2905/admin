@@ -101,8 +101,8 @@
 								<resource>
 									<directory>${project.parent.basedir}/frontend/public/</directory>
 									<includes>
-										<include>partieVisiteurs/</include>
-										<include>accueil.html</include>
+										<include>static/</include>
+										<include>index.html</include>
 										<include>favicon.ico</include>
 										<include>vite.svg</include>
 									</includes>
